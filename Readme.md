@@ -1,10 +1,10 @@
-## 
+## DELANI-STUDIO
 
 ## ATHOR
 Simon Mungai Njoroge
 
 #### BRIEF DESCRIPTION
-This is a website that allow you to get your akan name derived form the traditional naming of the people of Ghana 
+This is a website describing the services that Delani  studio offers , a portfolio and how to contact the campany.
 
 # Setup/Installation Requirements
 *Clone the repository
