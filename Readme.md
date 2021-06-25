@@ -7,6 +7,7 @@ Simon Mungai Njoroge
 This is a website describing the services that Delani  studio offers , a portfolio and how to contact the campany.
 
 ## Live Page
+https://sim0n-sys.github.io/studio/
 
 # Setup/Installation Requirements
 
