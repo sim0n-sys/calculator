@@ -17,8 +17,7 @@ Technologies used are as follows
 *jquary
 *bootstrap
 *javascript
-
-## BD
+*markdown
 
 
 ## contact details
