@@ -14,10 +14,10 @@ This is a website describing the services that Delani  studio offers , a portfol
 Technologies used are as follows
 * HTML5
 * CSS
-*jquary
-*bootstrap
-*javascript
-*markdown
+* Jquary
+* Bootstrap
+* Javascript
+* Markdown
 
 
 ## contact details
