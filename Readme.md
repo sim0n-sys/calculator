@@ -6,9 +6,10 @@ Simon Mungai Njoroge
 #### BRIEF DESCRIPTION
 This is a website describing the services that Delani  studio offers , a portfolio and how to contact the campany.
 
+## Live Page
+
 # Setup/Installation Requirements
-*Clone the repository
-*Paste it on the browser
+
 
 ## Technologies Used
 Technologies used are as follows
