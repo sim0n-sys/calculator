@@ -10,7 +10,10 @@ This is a website describing the services that Delani  studio offers , a portfol
 https://sim0n-sys.github.io/studio/
 
 # Setup/Installation Requirements
-
+* Open Terminal
+* git clone
+* cd Studio 
+* code .
 
 ## Technologies Used
 Technologies used are as follows
